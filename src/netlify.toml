@@ -1,0 +1,3 @@
+[build]
+publish = "bundle"
+command = "npm run start"
